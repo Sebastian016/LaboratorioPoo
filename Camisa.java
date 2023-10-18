@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 public class Camisa {
     //Propiedades del objeto camisa
     int id;
